@@ -1,2 +1,2 @@
 FROM python:3.10-slim
-RUN python3 main.py
+RUN echo 'This is our quick test'
